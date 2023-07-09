@@ -1,0 +1,17 @@
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Gateway.deps.json
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Gateway.dll
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Gateway.pdb
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Application.dll
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Domain.dll
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Application.pdb
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\bin\Debug\net7.0\Domain.pdb
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.csproj.AssemblyReference.cache
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.AssemblyInfoInputs.cache
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.AssemblyInfo.cs
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.csproj.CopyComplete
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.dll
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\refint\Gateway.dll
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\Gateway.pdb
+C:\Users\Adar\RiderProjects\SuspicousBehaviorDetector\Gateway\obj\Debug\net7.0\ref\Gateway.dll

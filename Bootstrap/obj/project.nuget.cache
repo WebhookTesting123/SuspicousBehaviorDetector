@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Y8lFiUNd+4oqfevFnKCbx0EiCWrPOKAFEY4fuxq+ymafezqHBu/jz0plhUWlGms+5p8y3MOG564GYcecCtlPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adar\\RiderProjects\\SuspicousBehaviorDetector\\Bootstrap\\Bootstrap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adar\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.binder.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.commandline.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.fileextensions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0-preview.5.23280.8\\microsoft.extensions.configuration.json.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-preview.5.23280.8\\microsoft.extensions.fileproviders.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0-preview.5.23280.8\\microsoft.extensions.fileproviders.physical.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0-preview.5.23280.8\\microsoft.extensions.filesystemglobbing.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.5.23280.8\\microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.5.23280.8\\system.text.encodings.web.8.0.0-preview.5.23280.8.nupkg.sha512",
+    "C:\\Users\\Adar\\.nuget\\packages\\system.text.json\\8.0.0-preview.5.23280.8\\system.text.json.8.0.0-preview.5.23280.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJQ0OjKlh96D6b8Tg/3XpMh1yRhdAWGVflR94iqV973rA7ZNM3vTKy3osc2zKiDk+U9JxjDoyOHXTgH/vcQyLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adar\\RiderProjects\\SuspicousBehaviorDetector\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
